@@ -1,0 +1,31 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "Webdev portfolio website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmoss215/portfolio-website.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "node",
+    "express",
+    "bootstrap"
+  ],
+  "author": "Dan Moss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmoss215/portfolio-website/issues"
+  },
+  "homepage": "https://github.com/dmoss215/portfolio-website#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
